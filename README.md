@@ -1,2 +1,0 @@
-"# training-session" 
-"# training-program" 
